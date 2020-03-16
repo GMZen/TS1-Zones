@@ -1,4 +1,4 @@
-   "1":   { "Name": "Z001", "Load": true,  "DisplayName": "Gungsong Fortress"},    "Guan map 1" },
+        "1":   { "Name": "Z001", "Load": true,  "DisplayName": "Gungsong Fortress"},    "Guan map 1" },
 	"2":   { "Name": "Z002", "Load": false, "DisplayName": "Gocheon" },             "Guan map 2" },  
 	"3":   { "Name": "Z003", "Load": false, "DisplayName": "Tanwak Forest" },       "Guan map 3" },
 	"4":   { "Name": "Z004", "Load": false, "DisplayName": "Wachon Village" },      "Guan map 4" },
