@@ -123,20 +123,20 @@
        "123":  { "Name": "Z123", "Load": false, "DisplayName": "Pegyan Training Hall 4" },
        "124":  { "Name": "Z124", "Load": false, "DisplayName": "Pungun Hall" }, Tournament Map
        "125":  { "Name": "Z125", "Load": false, "DisplayName": "Wancheon" },
-       "126":  { "Name": "Z126", "Load": false, "DisplayName": "Yeondo Island (Ancient Battlefield)" },
-       "127":  { "Name": "Z127", "Load": false, "DisplayName": "Imundo Island (Ancient Battlefield)" },
-       "128":  { "Name": "Z128", "Load": false, "DisplayName": "Jido Island (Ancient Battlefield)" },
-       "129":  { "Name": "Z129", "Load": false, "DisplayName": "Chundo Island (Ancient Battlefield)" },
-       "130":  { "Name": "Z130", "Load": false, "DisplayName": "Yeondo Island (Ancient Battlefield)" },
-       "131":  { "Name": "Z131", "Load": false, "DisplayName": "Imundo Island (Ancient Battlefield)" },
-       "132":  { "Name": "Z132", "Load": false, "DisplayName": "Jido Island (Ancient Battlefield)" },
-       "133":  { "Name": "Z133", "Load": false, "DisplayName": "Chundo Island (Ancient Battlefield)" },
-       "134":  { "Name": "Z134", "Load": false, "DisplayName": "Yeondo Island (Ancient Battlefield)" },
-       "135":  { "Name": "Z135", "Load": false, "DisplayName": "Imundo Island (Ancient Battlefield)" },
-       "136":  { "Name": "Z136", "Load": false, "DisplayName": "Jido Island (Ancient Battlefield)" },
-       "137":  { "Name": "Z137", "Load": false, "DisplayName": "Chundo Island (Ancient Battlefield)" },
-       "138":  { "Name": "Z138", "Load": false, "DisplayName": "Jijeng Valley" }, 
-       "139":  { "Name": "Z139", "Load": false, "DisplayName": "Chama Valley" },
+       "126":  { "Name": "Z126", "Load": false, "DisplayName": "Yeondo Island (Ancient Battlefield)" }, GUAN
+       "127":  { "Name": "Z127", "Load": false, "DisplayName": "Imundo Island (Ancient Battlefield)" }, GUAN
+       "128":  { "Name": "Z128", "Load": false, "DisplayName": "Jido Island (Ancient Battlefield)" }, GUAN
+       "129":  { "Name": "Z129", "Load": false, "DisplayName": "Chundo Island (Ancient Battlefield)" }, GUAN
+       "130":  { "Name": "Z130", "Load": false, "DisplayName": "Yeondo Island (Ancient Battlefield)" }, FUJIN
+       "131":  { "Name": "Z131", "Load": false, "DisplayName": "Imundo Island (Ancient Battlefield)" }, FUJIN
+       "132":  { "Name": "Z132", "Load": false, "DisplayName": "Jido Island (Ancient Battlefield)" }, FUJIN
+       "133":  { "Name": "Z133", "Load": false, "DisplayName": "Chundo Island (Ancient Battlefield)" },FUJIN
+       "134":  { "Name": "Z134", "Load": false, "DisplayName": "Yeondo Island (Ancient Battlefield)" }, JIN
+       "135":  { "Name": "Z135", "Load": false, "DisplayName": "Imundo Island (Ancient Battlefield)" }, JIN
+       "136":  { "Name": "Z136", "Load": false, "DisplayName": "Jido Island (Ancient Battlefield)" }, JIN
+       "137":  { "Name": "Z137", "Load": false, "DisplayName": "Chundo Island (Ancient Battlefield)" }, JIN
+       "138":  { "Name": "Z138", "Load": false, "DisplayName": "Jijeng Valley" }, 112 pvp and boss map
+       "139":  { "Name": "Z139", "Load": false, "DisplayName": "Chama Valley" }, m11 PVP and boss map
        "140":  { "Name": "Z140", "Load": false, "DisplayName": "Colgu Cave - Guan" },
        "141":  { "Name": "Z141", "Load": false, "DisplayName": "Colgu Cave - Fujin" },
        "142":  { "Name": "Z142", "Load": false, "DisplayName": "Colgu Cave - Jinong" },
