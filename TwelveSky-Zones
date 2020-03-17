@@ -22,9 +22,9 @@
 	"22":  { "Name": "Z022", "Load": false, "DisplayName": "Muhan Cave" },        "Fujin map 3 cave" },
 	"23":  { "Name": "Z023", "Load": false, "DisplayName": "Jamyron Cave" },      "Fujin map 4 cave" },
 	"24":  { "Name": "Z024", "Load": false, "DisplayName": "Howan Tomb" },        "Fujin map 4 cave 2" },
-	"25":  { "Name": "Z025", "Load": false, "DisplayName": "Samjok Dungeon" },    "Fujin map 5 Gemsaha Desert Cave" 
-	"26":  { "Name": "Z026", "Load": false, "DisplayName": "Gemsasin Tomb" },     "Fujin map 5 Gemsaha Desert Cave2"
-	"27":  { "Name": "Z027", "Load": false, "DisplayName": "Damun Cave" },        "Fujin Map 5 Gemsaha Desert Cave3" },
+	"25":  { "Name": "Z025", "Load": false, "DisplayName": "Samjok Dungeon" },    "Fujin map 5 Cave" 
+	"26":  { "Name": "Z026", "Load": false, "DisplayName": "Gemsasin Tomb" },     "Fujin map 5 Cave 2"
+	"27":  { "Name": "Z027", "Load": false, "DisplayName": "Damun Cave" },        "Fujin Map 5 Cave 3" },
 	"28":  { "Name": "Z028", "Load": false, "DisplayName": "Jondah Hall" },       "Jinong map 3 cave" },
 	"29":  { "Name": "Z029", "Load": false, "DisplayName": "Masin Tomb" },        "Jinong map 4 cave" },
 	"30":  { "Name": "Z030", "Load": false, "DisplayName": "Pugna Cave" },        "Jinong map 4 cave 2" },
