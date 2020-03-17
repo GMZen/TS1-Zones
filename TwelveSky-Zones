@@ -87,7 +87,7 @@
         "87":  { "Name": "Z087", "Load": false, "DisplayName": "Bimilda Hall" }, Fujin Quest map
         "88":  { "Name": "Z088", "Load": false, "DisplayName": "Bimilda Hall" }, Jin quest map
         "89":  { "Name": "Z089", "Load": false, "DisplayName": "Hanchorak" }, "Master Map 3"
-        "90":  { "Name": "Z090", "Load": false, "DisplayName": "Owagi Tomb" }, 112 map
+        "90":  { "Name": "Z090", "Load": false, "DisplayName": "Owagi Tomb" }, 112 map -m1
         "91":  { "Name": "Z091", "Load": false, "DisplayName": "Sangun Island" }, PVP m1-m33
         "92":  { "Name": "Z092", "Load": false, "DisplayName": "" },
         "93":  { "Name": "Z093", "Load": false, "DisplayName": "Paldo Island" }, Paldo Island PVP (Lvl 100-112)
@@ -108,7 +108,7 @@
        "108":  { "Name": "Z108", "Load": false, "DisplayName": "Andown Floor 1" }, JIN
        "109":  { "Name": "Z109", "Load": false, "DisplayName": "Andown Floor 2" }, JIN
        "110":  { "Name": "Z110", "Load": false, "DisplayName": "Samgok" }, Samgok Valley PVP (Lvl 100-112)
-       "111":  { "Name": "Z111", "Load": false, "DisplayName": "Soiran Valley" },
+       "111":  { "Name": "Z111", "Load": false, "DisplayName": "Soiran Valley" }, PVP (M1 - m12)
        "112":  { "Name": "Z112", "Load": false, "DisplayName": "Heolgo Hall" }, GUAN
        "113":  { "Name": "Z113", "Load": false, "DisplayName": "Heolgo Hall" }, FUJIN
        "114":  { "Name": "Z114", "Load": false, "DisplayName": "Heolgo Hall" }, JIN
