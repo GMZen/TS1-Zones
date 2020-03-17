@@ -48,11 +48,11 @@
 	"48":  { "Name": "Z048", "Load": false, "DisplayName": "Gembodago" }, "Jinong map 2 Cave" }
 	"49":  { "Name": "Z049", "Load": false, "DisplayName": "Amhang Valley" }, " PVP Zone level 30-49
 	"50":  { "Name": "Z050", "Load": false, "DisplayName": "Osada Hall" }, "Amhang Valley Cave
-        "51":  { "Name": "Z051", "Load": false, "DisplayName": "Samji Island" }, 
-        "52":  { "Name": "Z052", "Load": false, "DisplayName": "Jinmi Palace" }, 
-        "53":  { "Name": "Z053", "Load": false, "DisplayName": "Wargo Valley" }, 
-        "54":  { "Name": "Z054", "Load": false, "DisplayName": "Manhong Cave" "Wargo Valley Cave" }, 
-        "55":  { "Name": "Z055", "Load": false, "DisplayName": "Beoho Mountain" },
+        "51":  { "Name": "Z051", "Load": false, "DisplayName": "Samji Island" }, 50-69 PVP
+        "52":  { "Name": "Z052", "Load": false, "DisplayName": "Jinmi Palace" }, Samji Cave
+        "53":  { "Name": "Z053", "Load": false, "DisplayName": "Wargo Valley" }, 70-89 PVP
+        "54":  { "Name": "Z054", "Load": false, "DisplayName": "Manhong Cave" "Wargo Cave" }, 
+        "55":  { "Name": "Z055", "Load": false, "DisplayName": "Beoho Mountain" }, Shared PVE/PVP for 112
         "56":  { "Name": "Z056", "Load": false, "DisplayName": "Jancheon Stream" },
         "57":  { "Name": "Z057", "Load": false, "DisplayName": "Chesubon" },
         "58":  { "Name": "Z058", "Load": false, "DisplayName": "Yuhach Village" }, 
@@ -107,21 +107,21 @@
        "107":  { "Name": "Z107", "Load": false, "DisplayName": "Andown Floor 2" }, FUJIN
        "108":  { "Name": "Z108", "Load": false, "DisplayName": "Andown Floor 1" }, JIN
        "109":  { "Name": "Z109", "Load": false, "DisplayName": "Andown Floor 2" }, JIN
-       "110":  { "Name": "Z110", "Load": false, "DisplayName": "Samgok" },
+       "110":  { "Name": "Z110", "Load": false, "DisplayName": "Samgok" }, Samgok Valley PVP (Lvl 100-112)
        "111":  { "Name": "Z111", "Load": false, "DisplayName": "Soiran Valley" },
        "112":  { "Name": "Z112", "Load": false, "DisplayName": "Heolgo Hall" }, GUAN
        "113":  { "Name": "Z113", "Load": false, "DisplayName": "Heolgo Hall" }, FUJIN
        "114":  { "Name": "Z114", "Load": false, "DisplayName": "Heolgo Hall" }, JIN
-       "115":  { "Name": "Z115", "Load": false, "DisplayName": "Sinjay Temple" }, Wrong spawn pont on move
+       "115":  { "Name": "Z115", "Load": false, "DisplayName": "Sinjay Temple" }, 
        "116":  { "Name": "Z116", "Load": false, "DisplayName": "Chugun Palace" }, GUAN
        "117":  { "Name": "Z117", "Load": false, "DisplayName": "Chugun Palace" }, FUJIN
        "118":  { "Name": "Z118", "Load": false, "DisplayName": "Chugun Palace" }, JIN
-       "119":  { "Name": "Z119", "Load": true,  "DisplayName": "Nangi Track" },
+       "119":  { "Name": "Z119", "Load": true,  "DisplayName": "Nangi Track" }, Race Track :)
        "120":  { "Name": "Z120", "Load": false, "DisplayName": "Pegyan Training Hall 1" },
        "121":  { "Name": "Z121", "Load": false, "DisplayName": "Pegyan Training Hall 2" },
        "122":  { "Name": "Z122", "Load": false, "DisplayName": "Pegyan Training Hall 3" },
        "123":  { "Name": "Z123", "Load": false, "DisplayName": "Pegyan Training Hall 4" },
-       "124":  { "Name": "Z124", "Load": false, "DisplayName": "Pungun Hall" },
+       "124":  { "Name": "Z124", "Load": false, "DisplayName": "Pungun Hall" }, Tournament Map
        "125":  { "Name": "Z125", "Load": false, "DisplayName": "Wancheon" },
        "126":  { "Name": "Z126", "Load": false, "DisplayName": "Yeondo Island (Ancient Battlefield)" },
        "127":  { "Name": "Z127", "Load": false, "DisplayName": "Imundo Island (Ancient Battlefield)" },
