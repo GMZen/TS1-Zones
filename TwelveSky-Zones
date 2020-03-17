@@ -22,18 +22,18 @@
 	"22":  { "Name": "Z022", "Load": false, "DisplayName": "Muhan Cave" },        "Fujin map 3 cave" },
 	"23":  { "Name": "Z023", "Load": false, "DisplayName": "Jamyron Cave" },      "Fujin map 4 cave" },
 	"24":  { "Name": "Z024", "Load": false, "DisplayName": "Howan Tomb" },        "Fujin map 4 cave 2" },
-	"25":  { "Name": "Z025", "Load": false, "DisplayName": "Samjok Dungeon" },    "Fujin map 5 Gemsaha Desert Cave" ERROR
-	"26":  { "Name": "Z026", "Load": false, "DisplayName": "Gemsasin Tomb" },     "Fujin map 5 Gemsaha Desert Cave2"ERROR
-	"27":  { "Name": "Z027", "Load": false, "DisplayName": "Damun Cave" },        "Jinong map 2 cave" },ERROR
+	"25":  { "Name": "Z025", "Load": false, "DisplayName": "Samjok Dungeon" },    "Fujin map 5 Gemsaha Desert Cave" 
+	"26":  { "Name": "Z026", "Load": false, "DisplayName": "Gemsasin Tomb" },     "Fujin map 5 Gemsaha Desert Cave2"
+	"27":  { "Name": "Z027", "Load": false, "DisplayName": "Damun Cave" },        "Jinong map 2 cave" },
 	"28":  { "Name": "Z028", "Load": false, "DisplayName": "Jondah Hall" },       "Jinong map 3 cave" },
 	"29":  { "Name": "Z029", "Load": false, "DisplayName": "Masin Tomb" },        "Jinong map 4 cave" },
 	"30":  { "Name": "Z030", "Load": false, "DisplayName": "Pugna Cave" },        "Jinong map 4 cave 2" },
 	"31":  { "Name": "Z031", "Load": false, "DisplayName": "Monda Hall" },        "Jinong map 5 Cave" },
 	"32":  { "Name": "Z032", "Load": false, "DisplayName": "Gemwink Dungeon" },   "Jinong map 5 Cave 2" },
 	"33":  { "Name": "Z033", "Load": false, "DisplayName": "Hukyen Palace" },     "Jinong map 5 Cave 3" },
-	"34":  { "Name": "Z034", "Load": false, "DisplayName": "Hangma Battlefield Guanyin" }, OLD ID Y STONE BATTLE?
-	"35":  { "Name": "Z035", "Load": false, "DisplayName": "Hangma Battlefield Fujin" }, OLD ID
-	"36":  { "Name": "Z036", "Load": false, "DisplayName": "Hangma Battlefield Jinong" }, OLD ID
+	"34":  { "Name": "Z034", "Load": false, "DisplayName": "Hangma Battlefield Guanyin" }, Y stone defense
+	"35":  { "Name": "Z035", "Load": false, "DisplayName": "Hangma Battlefield Fujin" },  Y stone defense
+	"36":  { "Name": "Z036", "Load": false, "DisplayName": "Hangma Battlefield Jinong" }, Y stone defense
 	"37":  { "Name": "Z037", "Load": true,  "DisplayName": "Yongu" },
 	"38":  { "Name": "Z038", "Load": false, "DisplayName": "Yanggok Valley" },
 	"39":  { "Name": "Z039", "Load": false, "DisplayName": "Gyuwan Dungeon" }, ("Yanggok Y-Form Cave" },
@@ -48,28 +48,28 @@
 	"48":  { "Name": "Z048", "Load": false, "DisplayName": "Gembodago" }, "Jinong map 2 Cave" }
 	"49":  { "Name": "Z049", "Load": false, "DisplayName": "Amhang Valley" }, " PVP Zone level 30-49
 	"50":  { "Name": "Z050", "Load": false, "DisplayName": "Osada Hall" }, "Amhang Valley Cave
-        "51":  { "Name": "Z051", "Load": false, "DisplayName": "Samji Island" }, ERROR
-        "52":  { "Name": "Z052", "Load": false, "DisplayName": "Jinmi Palace" }, ERROR
-        "53":  { "Name": "Z053", "Load": false, "DisplayName": "Wargo Valley" }, ERROR
-        "54":  { "Name": "Z054", "Load": false, "DisplayName": "Manhong Cave" "Wargo Valley Cave" }, ERROR
+        "51":  { "Name": "Z051", "Load": false, "DisplayName": "Samji Island" }, 
+        "52":  { "Name": "Z052", "Load": false, "DisplayName": "Jinmi Palace" }, 
+        "53":  { "Name": "Z053", "Load": false, "DisplayName": "Wargo Valley" }, 
+        "54":  { "Name": "Z054", "Load": false, "DisplayName": "Manhong Cave" "Wargo Valley Cave" }, 
         "55":  { "Name": "Z055", "Load": false, "DisplayName": "Beoho Mountain" },
         "56":  { "Name": "Z056", "Load": false, "DisplayName": "Jancheon Stream" },
         "57":  { "Name": "Z057", "Load": false, "DisplayName": "Chesubon" },
-        "58":  { "Name": "Z058", "Load": false, "DisplayName": "Yuhach Village" }, ERROR
+        "58":  { "Name": "Z058", "Load": false, "DisplayName": "Yuhach Village" }, 
         "59":  { "Name": "Z059", "Load": false, "DisplayName": "Chengo Maze" },
         "60":  { "Name": "Z060", "Load": false, "DisplayName": "Ameon Cave" },
         "61":  { "Name": "Z061", "Load": false, "DisplayName": "Mabulda Hall" },
-        "62":  { "Name": "Z062", "Load": false, "DisplayName": "Mowga Cave" }, ERROR
+        "62":  { "Name": "Z062", "Load": false, "DisplayName": "Mowga Cave" }, 
         "63":  { "Name": "Z063", "Load": false, "DisplayName": "Mookyen Dungeon" },
-        "64":  { "Name": "Z064", "Load": false, "DisplayName": "Aredon Cave" }, ERROR
-        "65":  { "Name": "Z065", "Load": false, "DisplayName": "Mumiro Maze" }, ERROR
+        "64":  { "Name": "Z064", "Load": false, "DisplayName": "Aredon Cave" }, 
+        "65":  { "Name": "Z065", "Load": false, "DisplayName": "Mumiro Maze" }, 
         "66":  { "Name": "Z066", "Load": false, "DisplayName": "Gemguk Dungeon" },
-        "67":  { "Name": "Z067", "Load": false, "DisplayName": "Pageo Cave" }, ERROR
-        "68":  { "Name": "Z068", "Load": false, "DisplayName": "Chemil Dungeon" }, ERROR
+        "67":  { "Name": "Z067", "Load": false, "DisplayName": "Pageo Cave" }, 
+        "68":  { "Name": "Z068", "Load": false, "DisplayName": "Chemil Dungeon" }, 
         "69":  { "Name": "Z069", "Load": false, "DisplayName": "Jeonkun Palace" },
-        "70":  { "Name": "Z070", "Load": false, "DisplayName": "Jungo Hall" }, ERROR
+        "70":  { "Name": "Z070", "Load": false, "DisplayName": "Jungo Hall" }, 
         "71":  { "Name": "Z074", "Load": false, "DisplayName": "Geogun Palace" }, 
-        "72":  { "Name": "Z074", "Load": false, "DisplayName": "Conodown" }, ERROR
+        "72":  { "Name": "Z074", "Load": false, "DisplayName": "Conodown" }, 
         "73":  { "Name": "Z074", "Load": false, "DisplayName": "Masinda Hall" },
         "74":  { "Name": "Z074", "Load": false, "DisplayName": "Daseba Temple" },
         "75":  { "Name": "Z075", "Load": false, "DisplayName": "Gungsong Fortress Basement" }, "GUAN
@@ -80,42 +80,42 @@
         "80":  { "Name": "Z080", "Load": false, "DisplayName": "Golwilda Hall" },
         "81":  { "Name": "Z074", "Load": false, "DisplayName": "Homungwan" },     "Master Map 1"
         "82":  { "Name": "Z074", "Load": false, "DisplayName": "Chonsan Fortress" },     "Master Map 2"
-        "83":  { "Name": "Z083", "Load": false, "DisplayName": "Immak Dungeon" },
-        "84":  { "Name": "Z084", "Load": false, "DisplayName": "Immak Dungeon" },
-        "85":  { "Name": "Z085", "Load": false, "DisplayName": "Immak Dungeon" },
-        "86":  { "Name": "Z086", "Load": false, "DisplayName": "Bimilda Hall" }, wrong spawn point QUEST MAP?
-        "87":  { "Name": "Z087", "Load": false, "DisplayName": "Bimilda Hall" }, wrong spawn point
-        "88":  { "Name": "Z088", "Load": false, "DisplayName": "Bimilda Hall" }, wrong spawn point
+        "83":  { "Name": "Z083", "Load": false, "DisplayName": "Immak Dungeon" }, GUAN quest map
+        "84":  { "Name": "Z084", "Load": false, "DisplayName": "Immak Dungeon" }, Fujin quest map
+        "85":  { "Name": "Z085", "Load": false, "DisplayName": "Immak Dungeon" }, Jin Quest map
+        "86":  { "Name": "Z086", "Load": false, "DisplayName": "Bimilda Hall" }, GUAN quest map
+        "87":  { "Name": "Z087", "Load": false, "DisplayName": "Bimilda Hall" }, Fujin Quest map
+        "88":  { "Name": "Z088", "Load": false, "DisplayName": "Bimilda Hall" }, Jin quest map
         "89":  { "Name": "Z089", "Load": false, "DisplayName": "Hanchorak" }, "Master Map 3"
         "90":  { "Name": "Z090", "Load": false, "DisplayName": "Owagi Tomb" },
         "91":  { "Name": "Z091", "Load": false, "DisplayName": "Sangun Island" },
         "92":  { "Name": "Z092", "Load": false, "DisplayName": "Colgu Cave" }, OLD ID
         "93":  { "Name": "Z093", "Load": false, "DisplayName": "Paldo Island" },
-	"94":  { "Name": "Z094", "Load": false, "DisplayName": "9-Tier Pagoda" },
-	"95":  { "Name": "Z095", "Load": false, "DisplayName": "9-Tier Pagoda" },
-	"96":  { "Name": "Z096", "Load": false, "DisplayName": "9-Tier Pagoda" },
+	"94":  { "Name": "Z094", "Load": false, "DisplayName": "9-Tier Pagoda" }, GUAN
+	"95":  { "Name": "Z095", "Load": false, "DisplayName": "9-Tier Pagoda" }, FUJIN
+	"96":  { "Name": "Z096", "Load": false, "DisplayName": "9-Tier Pagoda" }, JIN
 	"97":  { "Name": "Z097", "Load": false, "DisplayName": "" },
 	"98":  { "Name": "Z098", "Load": false, "DisplayName": "" },
 	"99":  { "Name": "Z099", "Load": false, "DisplayName": "" },
        "100":  { "Name": "Z099", "Load": false, "DisplayName": "" },
-       "101":  { "Name": "Z101", "Load": false, "DisplayName": "Hogenye (Transending Charm)" },
-       "102":  { "Name": "Z102", "Load": false, "DisplayName": "Hogenye (Transending Charm)" },
-       "103":  { "Name": "Z103", "Load": false, "DisplayName": "Hogenye (Transending Charm)" },
-       "104":  { "Name": "Z104", "Load": false, "DisplayName": "Andown Floor 1" },
-       "105":  { "Name": "Z105", "Load": false, "DisplayName": "Andown Floor 2" },
-       "106":  { "Name": "Z106", "Load": false, "DisplayName": "Andown Floor 1" },
-       "107":  { "Name": "Z107", "Load": false, "DisplayName": "Andown Floor 2" },
-       "108":  { "Name": "Z108", "Load": false, "DisplayName": "Andown Floor 1" },
-       "109":  { "Name": "Z109", "Load": false, "DisplayName": "Andown Floor 2" },
+       "101":  { "Name": "Z101", "Load": false, "DisplayName": "Hogenye (Transending Charm)" }, GUAN	
+       "102":  { "Name": "Z102", "Load": false, "DisplayName": "Hogenye (Transending Charm)" }, FUJIN
+       "103":  { "Name": "Z103", "Load": false, "DisplayName": "Hogenye (Transending Charm)" }, JIN
+       "104":  { "Name": "Z104", "Load": false, "DisplayName": "Andown Floor 1" }, GUAN
+       "105":  { "Name": "Z105", "Load": false, "DisplayName": "Andown Floor 2" }, GUAN
+       "106":  { "Name": "Z106", "Load": false, "DisplayName": "Andown Floor 1" }, FUJIN
+       "107":  { "Name": "Z107", "Load": false, "DisplayName": "Andown Floor 2" }, FUJIN
+       "108":  { "Name": "Z108", "Load": false, "DisplayName": "Andown Floor 1" }, JIN
+       "109":  { "Name": "Z109", "Load": false, "DisplayName": "Andown Floor 2" }, JIN
        "110":  { "Name": "Z110", "Load": false, "DisplayName": "Samgok" },
        "111":  { "Name": "Z111", "Load": false, "DisplayName": "Soiran Valley" },
-       "112":  { "Name": "Z112", "Load": false, "DisplayName": "Heolgo Hall" },
-       "113":  { "Name": "Z113", "Load": false, "DisplayName": "Heolgo Hall" },
-       "114":  { "Name": "Z114", "Load": false, "DisplayName": "Heolgo Hall" },
+       "112":  { "Name": "Z112", "Load": false, "DisplayName": "Heolgo Hall" }, GUAN
+       "113":  { "Name": "Z113", "Load": false, "DisplayName": "Heolgo Hall" }, FUJIN
+       "114":  { "Name": "Z114", "Load": false, "DisplayName": "Heolgo Hall" }, JIN
        "115":  { "Name": "Z115", "Load": false, "DisplayName": "Sinjay Temple" }, Wrong spawn pont on move
-       "116":  { "Name": "Z116", "Load": false, "DisplayName": "Chugun Palace" },
-       "117":  { "Name": "Z117", "Load": false, "DisplayName": "Chugun Palace" },
-       "118":  { "Name": "Z118", "Load": false, "DisplayName": "Chugun Palace" },
+       "116":  { "Name": "Z116", "Load": false, "DisplayName": "Chugun Palace" }, GUAN
+       "117":  { "Name": "Z117", "Load": false, "DisplayName": "Chugun Palace" }, FUJIN
+       "118":  { "Name": "Z118", "Load": false, "DisplayName": "Chugun Palace" }, JIN
        "119":  { "Name": "Z119", "Load": true,  "DisplayName": "Nangi Track" },
        "120":  { "Name": "Z120", "Load": false, "DisplayName": "Pegyan Training Hall 1" },
        "121":  { "Name": "Z121", "Load": false, "DisplayName": "Pegyan Training Hall 2" },
