@@ -61,10 +61,10 @@
         "61":  { "Name": "Z061", "Load": false, "DisplayName": "Mabulda Hall" },  JIN
         "62":  { "Name": "Z062", "Load": false, "DisplayName": "Mowga Cave" }, GUAN Yang Cave 1
         "63":  { "Name": "Z063", "Load": false, "DisplayName": "Mookyen Dungeon" }, GUAN Yang Cave 2
-        "64":  { "Name": "Z064", "Load": false, "DisplayName": "Aredon Cave" },  GUAN Yang Cave 3
+        "64":  { "Name": "Z064", "Load": false, "DisplayName": "Aredon Cave" },  GUAN Yang Cave 3 RETURN TO START OF Yang Cave 0
         "65":  { "Name": "Z065", "Load": false, "DisplayName": "Mumiro Maze" }, FUJIN Yang Cave 1
         "66":  { "Name": "Z066", "Load": false, "DisplayName": "Gemguk Dungeon" }, FUJIN Yang Cave 2
-        "67":  { "Name": "Z067", "Load": false, "DisplayName": "Pageo Cave" },  FUJIN Yang Cave 3
+        "67":  { "Name": "Z067", "Load": false, "DisplayName": "Pageo Cave" },  FUJIN Yang Cave 3 RETURN TO START OF Yang Cave 0
         "68":  { "Name": "Z068", "Load": false, "DisplayName": "Chemil Dungeon" }, JIN Yang Cave 1
         "69":  { "Name": "Z069", "Load": false, "DisplayName": "Jeonkun Palace" }, JIN Yang Cave 2
         "70":  { "Name": "Z070", "Load": false, "DisplayName": "Jungo Hall" },  JIN Yang Cave 3 - RETURN TO START OF Yang Cave 0
