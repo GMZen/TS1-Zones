@@ -37,12 +37,12 @@
 	"37":  { "Name": "Z037", "Load": true,  "DisplayName": "Yongu" }, Trade map
 	"38":  { "Name": "Z038", "Load": false, "DisplayName": "Yanggok Valley" }, Center Map for all maps
 	"39":  { "Name": "Z039", "Load": false, "DisplayName": "Gyuwan Dungeon" }, ("Yanggok Y-Form Cave" },
-	"40":  { "Name": "Z040", "Load": false, "DisplayName": "Guyu Cave" }, "Guan yang cave 1
-	"41":  { "Name": "Z041", "Load": false, "DisplayName": "Yukko Cave" }, "Fujin Yang cave 1
-	"42":  { "Name": "Z042", "Load": false, "DisplayName": "Wangun Palace" }, "Jinong Yang cave 1
-	"43":  { "Name": "Z043", "Load": false, "DisplayName": "Junigan" }, "Jin yang cave 2
-	"44":  { "Name": "Z044", "Load": false, "DisplayName": "Gwangun Road" }, "Fujin yang cave 2 
-	"45":  { "Name": "Z045", "Load": false, "DisplayName": "Engam Canal" }, "yang cave 4
+	"40":  { "Name": "Z040", "Load": false, "DisplayName": "Guyu Cave" }, "YANG CAVE 0 GUAN ROAD TO BEOHO 1
+	"41":  { "Name": "Z041", "Load": false, "DisplayName": "Yukko Cave" }, "YANG CAVE 0 FUJIN ROAD TO BEOHO 1
+	"42":  { "Name": "Z042", "Load": false, "DisplayName": "Wangun Palace" }, "YANG CAVE 0 JIN ROAD TO BEOHO 1
+	"43":  { "Name": "Z043", "Load": false, "DisplayName": "Junigan" }, "GUAN ROAD TO BEOHO 2
+	"44":  { "Name": "Z044", "Load": false, "DisplayName": "Gwangun Road" }, "FUJIN ROAD TO BEOHO 2 
+	"45":  { "Name": "Z045", "Load": false, "DisplayName": "Engam Canal" }, "JIN ROAD TO BEOHO 2
 	"46":  { "Name": "Z046", "Load": false, "DisplayName": "Mujung Palace" }, "Guan map 2 Cave 2" }, 
 	"47":  { "Name": "Z047", "Load": false, "DisplayName": "Chenum Stone Cave" }, "Fujin map 2 Nangun Cave" },
 	"48":  { "Name": "Z048", "Load": false, "DisplayName": "Gembodago" }, "Jinong map 2 Cave" }
@@ -53,24 +53,24 @@
         "53":  { "Name": "Z053", "Load": false, "DisplayName": "Wargo Valley" }, 70-89 PVP
         "54":  { "Name": "Z054", "Load": false, "DisplayName": "Manhong Cave" "Wargo Cave" }, 
         "55":  { "Name": "Z055", "Load": false, "DisplayName": "Beoho Mountain" }, Shared PVE/PVP for 112
-        "56":  { "Name": "Z056", "Load": false, "DisplayName": "Jancheon Stream" },"Guan yang cave 3
-        "57":  { "Name": "Z057", "Load": false, "DisplayName": "Chesubon" }, "Fujin Yang cave 3
-        "58":  { "Name": "Z058", "Load": false, "DisplayName": "Yuhach Village" },  "jin Yang cave 3"
+        "56":  { "Name": "Z056", "Load": false, "DisplayName": "Jancheon Stream" },"GUAN ROAD TO BEOHO 3
+        "57":  { "Name": "Z057", "Load": false, "DisplayName": "Chesubon" }, "FUJIN ROAD TO BEOHO 3
+        "58":  { "Name": "Z058", "Load": false, "DisplayName": "Yuhach Village" },  "JIN ROAD TO BEOHO 3"
         "59":  { "Name": "Z059", "Load": false, "DisplayName": "Chengo Maze" }, GUAN
         "60":  { "Name": "Z060", "Load": false, "DisplayName": "Ameon Cave" }, FUJIN
         "61":  { "Name": "Z061", "Load": false, "DisplayName": "Mabulda Hall" },  JIN
-        "62":  { "Name": "Z062", "Load": false, "DisplayName": "Mowga Cave" }, GUAN yang+ Cave 1
-        "63":  { "Name": "Z063", "Load": false, "DisplayName": "Mookyen Dungeon" }, GUAN yang+ Cave 2
-        "64":  { "Name": "Z064", "Load": false, "DisplayName": "Aredon Cave" },  GUAN yang+ Cave 3
-        "65":  { "Name": "Z065", "Load": false, "DisplayName": "Mumiro Maze" }, FUJIN yang+ Cave 1
-        "66":  { "Name": "Z066", "Load": false, "DisplayName": "Gemguk Dungeon" }, FUJIN yang+ Cave 2
-        "67":  { "Name": "Z067", "Load": false, "DisplayName": "Pageo Cave" },  FUJIN yang+ Cave 3
-        "68":  { "Name": "Z068", "Load": false, "DisplayName": "Chemil Dungeon" }, JIN yang+ Cave 1
-        "69":  { "Name": "Z069", "Load": false, "DisplayName": "Jeonkun Palace" }, JIN yang+ Cave 2
-        "70":  { "Name": "Z070", "Load": false, "DisplayName": "Jungo Hall" },  JIN yang+ Cave 3
-        "71":  { "Name": "Z074", "Load": false, "DisplayName": "Geogun Palace" }, GUAN
-        "72":  { "Name": "Z074", "Load": false, "DisplayName": "Conodown" }, FUJIN
-        "73":  { "Name": "Z074", "Load": false, "DisplayName": "Masinda Hall" }, JIN
+        "62":  { "Name": "Z062", "Load": false, "DisplayName": "Mowga Cave" }, GUAN Yang Cave 1
+        "63":  { "Name": "Z063", "Load": false, "DisplayName": "Mookyen Dungeon" }, GUAN Yang Cave 2
+        "64":  { "Name": "Z064", "Load": false, "DisplayName": "Aredon Cave" },  GUAN Yang Cave 3
+        "65":  { "Name": "Z065", "Load": false, "DisplayName": "Mumiro Maze" }, FUJIN Yang Cave 1
+        "66":  { "Name": "Z066", "Load": false, "DisplayName": "Gemguk Dungeon" }, FUJIN Yang Cave 2
+        "67":  { "Name": "Z067", "Load": false, "DisplayName": "Pageo Cave" },  FUJIN Yang Cave 3
+        "68":  { "Name": "Z068", "Load": false, "DisplayName": "Chemil Dungeon" }, JIN Yang Cave 1
+        "69":  { "Name": "Z069", "Load": false, "DisplayName": "Jeonkun Palace" }, JIN Yang Cave 2
+        "70":  { "Name": "Z070", "Load": false, "DisplayName": "Jungo Hall" },  JIN Yang Cave 3 - RETURN TO START OF Yang Cave 0
+        "71":  { "Name": "Z074", "Load": false, "DisplayName": "Geogun Palace" }, GUAN ELDER MAP
+        "72":  { "Name": "Z074", "Load": false, "DisplayName": "Conodown" }, FUJIN ELDER MAP
+        "73":  { "Name": "Z074", "Load": false, "DisplayName": "Masinda Hall" }, JIN ELDER MAP
         "74":  { "Name": "Z074", "Load": false, "DisplayName": "Daseba Temple" }, Y STONE MAP
         "75":  { "Name": "Z075", "Load": false, "DisplayName": "Gungsong Fortress Basement" }, "GUAN
         "76":  { "Name": "Z076", "Load": false, "DisplayName": "Padsong Fortress Basement" },  "FUJIN
